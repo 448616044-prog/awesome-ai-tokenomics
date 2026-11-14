@@ -375,6 +375,7 @@ Each entry ends with a kind badge: ![tool: MIT](https://img.shields.io/badge/too
 
 ### Pricing Models
 
+- [AI API Price Change Log](https://aitokensai.com/pricing/changelog/) - Publishes dated, CC-BY-4.0 records of observed LLM rate changes (field, before/after values, percentage) with normalized JSON and CSV exports. (checked 2026-11-14) ![data](https://img.shields.io/badge/data-555?style=flat-square)
 - [AICostBudget AI API Pricing Dataset](https://aicostbudget.com/en/datasets/ai-api-pricing) - Source-linked AI API pricing records with normalized JSON and CSV exports. ![data](https://img.shields.io/badge/data-555?style=flat-square)
 - [Anthropic API Pricing](https://platform.claude.com/docs/en/about-claude/pricing) - Anthropic pricing documentation covering how tokens are metered and priced on the Claude API.
 - [Anthropic Batch Processing](https://platform.claude.com/docs/en/docs/build-with-claude/batch-processing) - Anthropic documentation on asynchronous batch processing, which trades latency for a lower price.
